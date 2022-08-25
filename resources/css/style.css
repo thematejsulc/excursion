@@ -1,1 +1,6 @@
-# Insert custom stylesheet
+/* Insert custom stylesheet */
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	background-color: #000000;
+}
